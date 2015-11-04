@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Class2</string>
+    <string name="userNameHint">Please enter your name</string>
+    <string name="saveName">Save</string>
+    <string name="next">NEXT</string>
+    <string name="show">show</string>
+    <string name="play">play</string>
+</resources>

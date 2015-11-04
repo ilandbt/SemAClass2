@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="userNameHint">הכנס שם בבקשה</string>
+    <string name="saveName">שמור</string>
+    <string name="next">הבא</string>
+    <string name="show">הצג</string>
+    <string name="play">נגן</string>
+
+</resources>
